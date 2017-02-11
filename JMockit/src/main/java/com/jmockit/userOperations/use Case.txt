@@ -1,0 +1,4 @@
+a case in which no calls to the mocked service will be done.
+a case in which only one method will be called.
+a case in which all methods will be called.
+a case in which exception throwing will be tested.
